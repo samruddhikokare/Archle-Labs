@@ -1,8 +1,7 @@
 # 🧠 Archle Labs Python Assignment — FastAPI WebSocket Chat App
 
 ### 👩‍💻 Developed by: *Samruddhi Kokare*  
-### 🏢 Organization: Archle Labs  
-### ⏱️ Duration: 3 Months (Unpaid Internship)  
+### 🏢 Organization: Archle Labs   
 ### 🧰 Technologies: Python | FastAPI | WebSockets | Uvicorn | HTML | JavaScript  
 
 ---
